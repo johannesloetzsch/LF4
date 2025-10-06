@@ -1,0 +1,18 @@
+[book]
+authors = ["Johannes Lötzsch"]
+language = "de"
+multilingual = false
+src = "src"
+title = "LF4: Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen"
+
+[preprocessor]
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+[preprocessor.toc]
+command = "mdbook-toc"
+
+[output]
+[output.html]
+git-repository-url = "https://github.com/johannesloetzsch/LF4/tree/main"
+edit-url-template = "https://github.com/johannesloetzsch/LF4/tree/main/{path}"
+additional-js =["mermaid.min.js", "mermaid-init.js"]

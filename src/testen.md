@@ -1,0 +1,6 @@
+# Prüfen / Testen
+
+```
+* Penatrationstests
+* Honeypot
+```
