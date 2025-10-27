@@ -9,13 +9,15 @@ gantt
  title LF4 November 2025 (3 Tage)
  dateFormat YYYY-MM-DD
  axisFormat %d.%m.
+ section Mo 27.10.
+  Einführung                      :2025-10-27, 1h
+  Datenschutz und Datensicherheit :2025-10-27, 2h
  section Mi 05.11.
-  Einführung                      :2025-11-05, 1h
-  Datenschutz und Datensicherheit :2025-11-05, 2h
+  Gefährdungen, ISM, BSI-Grundschutz   :2025-11-05, 3h
  section Do 06.11.
-  Gefährdungen; BSI-Grundschutz   :2025-11-06, 3h
+  Schutzbedarfsanalyse            :2025-11-06, 3h
  section Fr 07.11.
-  TOM, Backups                    :2025-11-07, 4h
+  TOM, Endgerätesicherheit, Redundanz  :2025-11-07, 4h
   SOL Praxisbeispiele             :crit, milestone, 2025-11-07, 2h
 ```
 
@@ -44,20 +46,20 @@ gantt
   Q&A, Wiederholung               :2025-01-28, 3h
  section Do 29.01.
   Klassenarbeit                   :crit, milestone, 2025-01-29, 2h
-  Vorstellung Praxisprojekte      :2025-01-29, 1h
+  Vorstellung Praxisprojekte      :crit, 2025-01-29, 1h
 ```
 
 ```mermaid
 gantt
- title LF4 Februar 2026 (3 Tage)
+ title LF4 März 2026 (3 Tage)
  dateFormat YYYY-MM-DD
  axisFormat %d.%m.
- section Do 12.02.
+ section Do 12.03.
   Praxis                            :2025-02-12, 3h
- section Fr 13.02.
+ section Fr 13.03.
   Praxis                            :2025-02-13, 4h
   SOL Projektabschluss              :crit, milestone, 2025-02-13, 2h
- section Mi 18.02.
+ section Mi 18.03.
   Projektpräsentation               :crit, milestone, 2025-02-18, 3h
 ```
 
