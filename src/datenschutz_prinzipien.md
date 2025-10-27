@@ -109,6 +109,8 @@
 
 => Wenn die Berichtigung falscher Daten verlangt oder Widerspruch gegen die Verarbeitung eingelegt wurde, muss die Verarbeitung der Daten vom Verantwortlichen bis zum Abschluss seiner Prüfung eingeschränkt werden
 
+> **💡** Hervorragende [Beispielprojekte](https://de.wikipedia.org/wiki/Max_Schrems#Projekte) ([Vorträge](https://media.ccc.de/search/?q=Schrems)), wie erfolgreicher Lobbyismus für digitale Rechte durch Nutzung der Betroffenenrechte aussehen kann :)
+
 
 ## Verarbeitung besonderer Kategorien personenbezogener Daten
 [(Art. 9 DSGVO)](https://dejure.org/gesetze/DSGVO/9.html)

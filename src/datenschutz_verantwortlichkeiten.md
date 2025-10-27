@@ -47,7 +47,7 @@ Der Auftragsverarbeiter ist verpflichtet:
 >
 > c) die Kerntätigkeit des Verantwortlichen oder des Auftragsverarbeiters in der **umfangreichen Verarbeitung besonderer Kategorien von Daten** […]
 
-[§ 38 BDSG](https://dejure.org/gesetze/BDSG/38.html) erfordert zusätzlich die Benennung eines Datenschutzbeauftragten,
+[§ 38 BDSG](https://dejure.org/gesetze/BDSG/38.html) erfordert zusätzlich die Benennung eines Datenschutzbeauftragten
 > […] soweit sie in der Regel mindestens **20 Personen** ständig mit der automatisierten Verarbeitung personenbezogener Daten beschäftigen […]
 
 
