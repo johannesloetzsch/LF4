@@ -12,12 +12,14 @@ gantt
  section Mo 27.10.
   Einführung                      :2025-10-27, 1h
   Datenschutz und Datensicherheit :2025-10-27, 2h
+ section Mo 03.11.
+  Verantwortlichkeiten, Datensparsamkeit, IS(M) :2025-10-27, 5h
  section Mi 05.11.
-  Gefährdungen, ISM, BSI-Grundschutz   :2025-11-05, 3h
+  Gefährdungen, BSI-Grundschutz   :2025-11-05, 3h
  section Do 06.11.
   Schutzbedarfsanalyse            :2025-11-06, 3h
  section Fr 07.11.
-  TOM, Endgerätesicherheit, Redundanz  :2025-11-07, 4h
+  TOM, Endgerätesicherheit, Redundanz  :2025-11-07, 6h
   SOL Praxisbeispiele             :crit, milestone, 2025-11-07, 2h
 ```
 
