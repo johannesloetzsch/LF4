@@ -35,6 +35,10 @@
 
 > **💡** [Podcast Datenschutzgeschichte](https://www.datenschutzzentrum.de/interviews/)
 
+> * 2024 [**Cyber Resilience Act**](https://de.wikipedia.org/wiki/Cyberresilienz-Verordnung) (CRA)
+>
+>   * gilt ab dem **11.12.2027**
+
 
 ## Gesetzliche Bestimmungen
 
@@ -60,6 +64,7 @@
 #### [Telekommunikationsgesetz](https://de.wikipedia.org/wiki/Telekommunikationsgesetz_(Deutschland)) (TKG)
 #### [Digitale-Dienste-Gesetz](https://de.wikipedia.org/wiki/Digitale-Dienste-Gesetz) (DDG)
 => ersetzt das [Telemediengesetz](https://de.wikipedia.org/wiki/Telemediengesetz) (TMG)
+#### [Cyber Resilience Act](https://de.wikipedia.org/wiki/Cyberresilienz-Verordnung) (CRA)
 
 ## Umsetzung
 

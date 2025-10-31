@@ -1,8 +1,10 @@
 # Datensicherheit
 (IT-Sicherheit / Cyber-Security)
 
-Erwartetungswert<sub>Schaden</sub> = ∑ Wahrscheinlichkeit<sub>Schadenseintritt</sub> * Schadenshöhe<sub>Schadensfall</sub>
+<!-- toc -->
 
+
+## Safety vs. Security
 
 ```mermaid
 flowchart TB
@@ -51,6 +53,8 @@ flowchart TB
 
 => [**kontinuierlicher Verbesserungsprozess**](https://de.wikipedia.org/wiki/Kontinuierlicher_Verbesserungsprozess) (KVP)
 
+=> [plan–do–check–act (**PDCA**) ![PDCA](https://upload.wikimedia.org/wikipedia/commons/7/7a/PDCA_Cycle.svg)](https://de.wikipedia.org/wiki/Demingkreis)
+
 > **💡** aktuelle Empfehlungen des BSI:
 >
 > [BSI TR-02102](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Technische-Richtlinien/TR-nach-Thema-sortiert/tr02102/tr02102_node.html) „Kryptographische Verfahren: Empfehlungen und Schlüssellängen“
@@ -72,3 +76,6 @@ flowchart TB
   Qualität --> Qualitätssicherung
   Qualität --> Qualitätskontrolle
 ```
+
+## Berechnung des Nutzens von Sicherheit
+Erwartetungswert<sub>Schaden</sub> = ∑ Wahrscheinlichkeit<sub>Schadenseintritt</sub> * Schadenshöhe<sub>Schadensfall</sub>

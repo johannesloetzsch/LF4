@@ -13,7 +13,7 @@ gantt
   Einführung                      :2025-10-27, 1h
   Datenschutz und Datensicherheit :2025-10-27, 2h
  section Mo 03.11.
-  Verantwortlichkeiten, Datensparsamkeit, IS(M) :2025-10-27, 5h
+  Verantwortlichkeiten, Datensparsamkeit, Sicherheitsgrundlagen, IS(M) :2025-10-27, 5h
  section Mi 05.11.
   Gefährdungen, BSI-Grundschutz   :2025-11-05, 3h
  section Do 06.11.

@@ -23,6 +23,12 @@ Die DSGVO schreibt **Datenminimierung** (dem Zweck angemessen und erheblich sowi
 * datenschutzfreundliche Architekturen, Protokolle, Prozesse
   * Sicher nach „Stand der Technik“
 
+### Beispielprojekte
+
+<iframe width="1024" height="576" src="https://sar-psychosupport.org"></iframe>
+
+<iframe width="1024" height="576" src="https://media.ccc.de/v/ds23-256-formswizard-to-be-prepared-for-the-next-crisis/oembed#t=84" frameborder="0" allowfullscreen></iframe>
+
 
 ## Anonymität & Pseudonymität
 

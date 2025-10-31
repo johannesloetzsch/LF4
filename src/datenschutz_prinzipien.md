@@ -58,6 +58,9 @@
 
 > **💬** Welche Konsequenzen ergeben sich für Diensteanbieter aus den Betroffenenrechten?
 
+> **📝❗** FiSi AP2 Konzeption Sommer 2022 Aufgabe 3bc
+
+
 ### Recht auf Information
 [(Art. 13 DSGVO)](https://dejure.org/gesetze/DSGVO/13.html)
 
@@ -115,6 +118,8 @@
 ## Verarbeitung besonderer Kategorien personenbezogener Daten
 [(Art. 9 DSGVO)](https://dejure.org/gesetze/DSGVO/9.html)
 
+> **❓❗** Welche Daten sind über das bisher gelernte hinaus besonders zu schüzten?
+
 Folgende Kategorien von Daten, die ein besonders hohes **Risiko für die Grundrechte und Freiheiten der betroffenen Personen** darstellen, unterliegen einem besonders hohem Schutzbedarf:
 
 * rassische und ethnische Herkunft
@@ -126,8 +131,18 @@ Folgende Kategorien von Daten, die ein besonders hohes **Risiko für die Grundre
 ## Melde-/Benachrichtigungspflichten
 im Falle einer Verletzung des Schutzes personenbezogener Daten
 
+> **❓❗** Welche Pflichten hat der *für die Verarbeitung von Daten* Verantwortliche, wenn bekannt wird, dass Daten unsachgemäß geschützt wurden?
+
 [(Art. 33 DSGVO)](https://dejure.org/gesetze/DSGVO/33.html)
 
 * binnen 72 Stunden an zuständigen **Aufsichtsbehörde**
 * unverzüglich an **Verantwortlichen** (bei Auftragsverarbeitung)
 * unverzüglich an **Betroffenen** (falls hohes Risiko für die persönlichen Rechte und Freiheiten, siehe [Art. 34 DSGVO](https://dejure.org/gesetze/DSGVO/34.html))
+
+> **❓** Wie gehe ich damit um, wenn mir Sicherheitslücken / Datenschutzvergehen in fremden Projekten auffallen?
+
+> **💡** Empfehlungen:
+> * [Responsible Disclosure](https://de.wikipedia.org/wiki/Responsible_Disclosure)
+> * [disclosure@ccc.de](https://www.ccc.de/disclosure)
+
+<iframe width="1024" height="576" src="https://media.ccc.de/v/38c3-sicherheitslcke-gefunden-und-nun/oembed#t=85" frameborder="0" allowfullscreen></iframe>
