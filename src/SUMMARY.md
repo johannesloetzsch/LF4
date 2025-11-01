@@ -24,4 +24,6 @@
   * [E-Mail](./mail.md)
   * [WLAN](./wlan.md)
   * [VPN](./vpn.md)
+  * [SOL](./sol.md)
+    * [OER](./oer.md)
 * [Prüfen](./testen.md)
