@@ -28,7 +28,7 @@ basiert auf:
 
 * [Linux-Praktikum](https://johannesloetzsch.github.io/linux-praktikum/) => ZQL
 * [Datenschutz und Datensicherheit](https://johannesloetzsch.github.io/LF4/) => LF4
-  * Informatik und Gesellschaft, „Rolle im eigenen Betrieb“ => LF2
+  * [Informatik und Gesellschaft](./iug.md), „Rolle im eigenen Betrieb“ => LF1
 
 #### Programmieren
 (LF5, LF7, LF8, AE)
@@ -38,6 +38,10 @@ basiert auf:
 
 * [Cyber-physische Systeme, IoT](https://johannesloetzsch.github.io/LF7/), Prozessorarchitektur (Computergrundlagen), KI => LF7
   * im Moment noch einschließlich LF8 Praxis (REST, SQL)
+
+* [Professionelles Javascript/Typescript tooling](https://github.com/johannesloetzsch/nix-pnpm-demo) => faWeb, LF10a
+
+* [Rust als Erstsprache](https://media.ccc.de/v/clt25-302-rust-als-erstsprache) ([git](https://gitlab.hrz.tu-chemnitz.de/osg/aup-script)) => LF10a
 
 * [Prolog Tutorial](https://johannesloetzsch.github.io/prolog-tutorial/) — Einstieg in die Logikprogrammierung => LF11a
 * [Assembler Einführung](https://github.com/johannesloetzsch/arm-asm-introduction) => LF11a

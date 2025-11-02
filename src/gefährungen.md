@@ -1,14 +1,29 @@
-# Gefährdungen, Bedrohungsszenarien, Schadenspotenziale
+# Gefährdungen
+(potentieller Schaden / Schadenspotenziale)
 
 <!-- toc -->
 
-```
-* Malware, Ransomware, Trojaner
-* Phishing
-* DoS DDos
-```
+> **💡** In der IT-Grundschutz-Methodik werden [**47 Elementare Gefährdungen**](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/IT-GS-Kompendium/Elementare_Gefaehrdungen.pdf?__blob=publicationFile&v=4) behandelt
 
-## Aktuelles Praxisbeispiel: GlassWorm
+## Gefährdungen mit besonderer Relevanz für die IHK-Prüfung
+
+### [Malware, Ransomware, Trojaner](https://de.wikipedia.org/wiki/Schadprogramm)
+### [Phishing](https://de.wikipedia.org/wiki/Phishing)
+### [DoS, DDoS](https://de.wikipedia.org/wiki/Denial_of_Service)
+
+
+## Ausblick: Supply Chain Vulnerabilities
+### Beispiel: [Israel’s Pager Attacks](https://www.schneier.com/blog/archives/2024/09/israels-pager-attacks.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1bvvo46jYFU?si=u41xFSFRYFUQH8Kq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Beispiel: [XZ Utils Backdoor](https://de.wikipedia.org/wiki/XZ_Utils_Backdoor)
+
+> **💡** [weitere Beispiele](https://johannesloetzsch.github.io/LF11b/praxisbeispiele.html#supply-chain-security) (aus LF11b 2024)
+
+<iframe width="560" height="315" src="https://media.ccc.de/v/emf2024-409-the-xz-backdoor-what-why-and-how/oembed#t=5" frameborder="0" allowfullscreen></iframe>
+
+### Beispiel: GlassWorm
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IIzyVIjLbhU?si=yAlTuL3tJB4b82p0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -20,19 +35,13 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fu3laL5VYdM?si=yQzRAxxHTJg5qd1W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-## Supply Chain Vulnerabilities
-Beispiel: [Israel’s Pager Attacks](https://www.schneier.com/blog/archives/2024/09/israels-pager-attacks.html)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1bvvo46jYFU?si=u41xFSFRYFUQH8Kq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Nötige Maßnahmen
 
 => [(Software) Bill of Materials (SBOM)](https://de.wikipedia.org/wiki/Software-Lieferkette)
 
 => [Cyber Resilience Act (CRA)](https://de.wikipedia.org/wiki/Cyberresilienz-Verordnung)
 
-> **💡** [weitere Beispiele](https://johannesloetzsch.github.io/LF11b/praxisbeispiele.html#supply-chain-security) (aus LF11b 2024)
-
 ## Links zum Thema
 
 > **💡** weitere [Ursachen](https://johannesloetzsch.github.io/LF11b/grundlagen.html#verbreitete-ursachen-f%C3%BCr-sicherheitsprobleme-angriffsvektorenbedrohungsszenarien)
-> und [Praxisbeispieile](https://johannesloetzsch.github.io/LF11b/praxisbeispiele.html#praxisbeispiele)
+> und [Praxisbeispiele](https://johannesloetzsch.github.io/LF11b/praxisbeispiele.html#praxisbeispiele)

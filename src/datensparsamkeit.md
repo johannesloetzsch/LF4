@@ -18,10 +18,23 @@ Die DSGVO schreibt **Datenminimierung** (dem Zweck angemessen und erheblich sowi
 ## [Privacy by Design](https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung#Privacy_by_Design,_Privacy_by_Default)
 => Datenschutz durch Technikgestaltung 
 
-* nicht benötigte Funktionalität (Datenspeicherung und Verarbeitung) weglassen ([KISS-Prinzip](https://de.wikipedia.org/wiki/KISS-Prinzip))
+> **❓❗** Wie geht man vor, wenn man ein System datenschutzfreundlich implementieren will?
+
+* nicht benötigte Funktionalität (Datenspeicherung und Verarbeitung) weglassen ([**KISS-Prinzip**](https://de.wikipedia.org/wiki/KISS-Prinzip))
 * [Funktionstrennung](https://de.wikipedia.org/wiki/Funktionstrennung#Informationstechnik), Anonymisierung
 * datenschutzfreundliche Architekturen, Protokolle, Prozesse
   * Sicher nach „Stand der Technik“
+
+> [**💡** Anforderungen an datenschutzfreundliche Systeme](https://www.datenschutzzentrum.de/artikel/941-Interview-mit-Prof.-Dr.-Andreas-Pfitzmann.html)
+>
+> <video width="384" height="288" controls="">
+>  <source src="https://datenschutzzentrum.de/interviews/pfitzmann/interview-pfitzmann.mp4#t=3909" type="video/mp4">
+> </video>
+>
+> * Zweckbindung
+> * Datenminimierung
+> * Speicherbegrenzung
+
 
 ### Beispielprojekte
 

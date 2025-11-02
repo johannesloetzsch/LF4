@@ -146,3 +146,6 @@ im Falle einer Verletzung des Schutzes personenbezogener Daten
 > * [disclosure@ccc.de](https://www.ccc.de/disclosure)
 
 <iframe width="1024" height="576" src="https://media.ccc.de/v/38c3-sicherheitslcke-gefunden-und-nun/oembed#t=85" frameborder="0" allowfullscreen></iframe>
+
+> **💡** [Quiz Show zu Datenschutz](https://media.ccc.de/v/38c3-die-groe-datenschutz-datenpannen-und-ds-gvo-show)
+<iframe width="1024" height="576" src="https://media.ccc.de/v/38c3-die-groe-datenschutz-datenpannen-und-ds-gvo-show/oembed#t=1087" frameborder="0" allowfullscreen></iframe>
