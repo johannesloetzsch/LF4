@@ -59,6 +59,10 @@ basiert auf:
 => [git repo](https://gitea.c3d2.de/zentralwerk/network)
 * [Dresden Internet Exchange (DD-IX)](https://github.com/dd-ix)
 
+### [Schulstick](https://schulstick.org/)
+
+<iframe width="1024" height="576" src="https://media.ccc.de/v/ds24-468-die-fsfw-schul-uni-und-makersticks/oembed" frameborder="0" allowfullscreen></iframe>
+
 ### [LiaBooks](https://liabooks.github.io/)
 
 <iframe width="1024" height="3000" src="https://liabooks.github.io/"></iframe>

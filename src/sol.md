@@ -29,12 +29,21 @@
 
 ## Was erwarte ich von Ihnen?
 
-> ❗ Hinweise für SOL (insbesondere am Fr 7.+8. UE):
+> ❗ Hinweise für SOL (insbesondere Hausaufgaben am Fr 7.+8. UE):
 >
-> * Fristgemäße Abgabe der eigenen Ergebnisse in Schriftform
+> * Fristgemäße Abgabe der eigenen Ergebnisse
 >   * in ILIAS oder auf dort verlinkter Website (z.B. git-Repo)
 > * Vorbereitet sein, die Ergebnisse in der nächsten Unterrichtsstunde zu präsentieren
 >   * keine Präsentationsfolien nötig (!)
 >   * lieber das eigene Arbeitsmaterial (Notizen, Dokumentation, lauffähige Praxisprojekte, …) vorführen
 > * Eigenmotivation für die gewählte SOL-Umsetzung begründen können
-> * Den Mitschülern ermöglichen, möglichst viel aus der eigenen Arbeit zu lernen
+> * Den Mitschülern ermöglichen, viel voneinander zu lernen
+>   * dafür die eigene Arbeit so anfertigen, dass erklärt werden kann:
+>     * Was habe ich gelernt?
+>     * Wie kommt man zu dem Ergebnis?
+>     * Wo findet man hilfreiche Informationen zum Thema?
+>
+> Gruppenarbeiten:
+> * Sind erlaubt und erwünscht
+> * Bitte in der Abgabe dokumentieren, wer welchen Anteil beigetragen hat
+>   * Jedes Teammitglied muss in der Lage sein, einen wesentlichen Teil der gemeinsamen Arbeit zu präsentieren

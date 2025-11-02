@@ -1,4 +1,4 @@
-# Datenschutz & Datensicherheit
+# Datenschutz & Datensicherheit (DuD)
 
 > **❓❗** Wie unterscheiden sich [Datenschutz](https://de.wikipedia.org/wiki/Datenschutz) und [Datensicherheit](https://de.wikipedia.org/wiki/Informationssicherheit)?
 

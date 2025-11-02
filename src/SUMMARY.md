@@ -26,4 +26,6 @@
   * [VPN](./vpn.md)
   * [SOL](./sol.md)
     * [OER](./oer.md)
+    * [Informatik und Gesellschaft](./iug.md)
+    * [IP](./ip.md)
 * [Prüfen](./testen.md)
