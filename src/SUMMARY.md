@@ -10,6 +10,7 @@
     * [Datensparsamkeit](./datensparsamkeit.md)
   * [Datensicherheit](./datensicherheit.md)
   * [Sicherheitsmanagement](./ism.md)
+    * [Notfallmanagement](./notfallmanagement.md)
 * [Gefährdungen](./gefährungen.md)
 * [BSI-Grundschutz](./grundschutz.md)
   * [Schutzbedarfsanalyse](./schutzbedarfsanalyse.md)
