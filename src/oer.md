@@ -29,6 +29,7 @@ basiert auf:
 * [Linux-Praktikum](https://johannesloetzsch.github.io/linux-praktikum/) => ZQL
 * [Datenschutz und Datensicherheit](https://johannesloetzsch.github.io/LF4/) => LF4
   * [Informatik und Gesellschaft](./iug.md), „Rolle im eigenen Betrieb“ => LF1
+  * [Duale Ausbildung mdBook](https://belgarus.github.io/Notes/fi25/lf1_dualeberufsausbildung/book/) => LF1
 
 #### Programmieren
 (LF5, LF7, LF8, AE)
