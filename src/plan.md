@@ -13,11 +13,11 @@ gantt
   Einführung                      :2025-10-27, 1h
   Datenschutz und Datensicherheit :2025-10-27, 2h
  section Mo 03.11.
-  Verantwortlichkeiten, Datensparsamkeit, Sicherheitsgrundlagen, IS(M) :2025-11-03, 5h
+  besondere Datenkategorien, Meldepflichten, Verantwortlichkeiten  :2025-11-03, 2h
  section Mi 05.11.
-  Gefährdungen, BSI-Grundschutz   :2025-11-05, 3h
+  Datensparsamkeit, Sicherheitsgrundlagen, IS(M), Gefährdungen   :2025-11-05, 3h
  section Do 06.11.
-  Schutzbedarfsanalyse            :2025-11-06, 3h
+  BSI-Grundschutz, Schutzbedarfsanalyse  :2025-11-06, 3h
  section Fr 07.11.
   TOM, Endgerätesicherheit, Redundanz  :2025-11-07, 6h
   SOL Praxisbeispiele             :crit, milestone, 2025-11-07, 2h
@@ -71,9 +71,15 @@ gantt
   * erlaubte Hilfsmittel: Fact sheet (1 A4-Blatt, einseitig beschrieben)
   * Themen: Alles was im Unterricht bis dahin behandelt wurde…
   * Schwerpunkte (bisher vermittelter Inhalte — wird schrittweise ergänzt):
-    * [Datenschutz & Datensicherheit](./dud.md) (Begriffsunterscheidung)
-     * [Datenschutz](./datenschutz.md) (relevante Gesetze)
-     * [Prinzipien](./datenschutz_prinzipien.md) (Verbot mit Erlaubnisvorbehalt, Grundsätze für die Verarbeitung, Betroffenenrechte)
+    * [Datenschutz & Datensicherheit](./dud.md): Begriffsunterscheidung
+     * [Datenschutz](./datenschutz.md): relevante Gesetze
+     * [Prinzipien](./datenschutz_prinzipien.md): Verbot mit Erlaubnisvorbehalt, Grundsätze für die Verarbeitung, Betroffenenrechte, besonderer Kategorien personenbezogener Daten, Melde-/Benachrichtigungspflichte
+     * Datenverarbeitungsprozesse: [Menschen- und Maschinenlesbaren Datenformate](./oer.md)
+     * [EMail](./mail.md): TO/CC/BCC, Mailinglisten, FROM, Verschlüsselung
+
+     <!--
+     * [Informatik und Gesellschaft](./iug.md)
+     -->
 
 * **Schutzbedarfs- und Risikoanalyse** (einfache Wertung)
 

@@ -7,6 +7,10 @@
 
 > **❓❗** Erklären Sie den Unterschied, zwischen [Menschen- und Maschinenlesbaren](https://de.wikipedia.org/wiki/Maschinenlesbarkeit) Datenformaten. Nennen Sie jeweils Beispiele.
 
+> **💡** [Verbreitete Dateiformate](https://pandoc.org/), die mittels [Pandoc](https://pandoc.org/) ineinander convertiert werden können
+>
+> ![](https://pandoc.org/pandoc-cartoon.svgz)
+
 > **❓💬** Welche Datenformate sind für Lerninhalte und zum organisieren von Projekten geeignet?
 >
 > Begründen Sie ihre Aussagen.
@@ -14,22 +18,34 @@
 
 ### Werkzeuge
 
-#### <img src="https://liascript.github.io/images/favicon_hu817560954518484598.png" style="height: 1em"/> [LiaScript](https://liascript.github.io/)
+#### [LiaScript <img src="https://liascript.github.io/images/favicon_hu817560954518484598.png" style="height: 1em"/>](https://liascript.github.io/)
 
-#### <a href="https://github.com/johannesloetzsch/linux-praktikum" title="Git repository" aria-label="Git repository">Meine Toolchain <img src="https://avatars.githubusercontent.com/u/175537?s=400&u=d8732bb823db7c540806ab6063e555c635d1dc9b&v=4" style="height: 2em"/></a>
+#### [Meine Toolchain <img src="https://avatars.githubusercontent.com/u/175537?s=400&u=d8732bb823db7c540806ab6063e555c635d1dc9b&v=4" style="height: 1em"/>](https://github.com/johannesloetzsch/linux-praktikum")
 basiert auf:
 * <img src="https://johannesloetzsch.github.io/LF4/favicon.svg" style="height: 1em"/> [MDBook](https://mdbook-guide.irust.net/en-us/guide/creating.html)
 * <img src="https://avatars.githubusercontent.com/u/487568" style="height: 1em"/> [Nix Flakes](https://nixos.wiki/wiki/flakes)
 * [`.github/workflows`](https://github.com/johannesloetzsch/LF4/tree/main/.github/workflows) [CI/CD](https://de.wikipedia.org/wiki/CI/CD)
 
+#### Weitere ([Empfehlungen aus LF3](https://hedgedoc.c3d2.de/LF3#Textbasierte-Dateiformate))
+
+> **💡** [HedgeDoc Instanz des C3D2](https://hedgedoc.c3d2.de)
+
+<iframe width="1024" height="576" src="https://hedgedoc.org/"></iframe>
+
+#### proprietäres Wissensmanagement
+
+> **💡** [Obsidian](https://obsidian.md) (basierend auf Markdown)
+
 ## Frei nutzbare Lernmaterialien
 
 ### Für Fachinformatiker
 
-* [Linux-Praktikum](https://johannesloetzsch.github.io/linux-praktikum/) => ZQL
+* [Duale Ausbildung](https://belgarus.github.io/Notes/fi25/lf1_dualeberufsausbildung/book/) => LF1
 * [Datenschutz und Datensicherheit](https://johannesloetzsch.github.io/LF4/) => LF4
-  * [Informatik und Gesellschaft](./iug.md), „Rolle im eigenen Betrieb“ => LF1
-  * [Duale Ausbildung mdBook](https://belgarus.github.io/Notes/fi25/lf1_dualeberufsausbildung/book/) => LF1
+  * [Informatik und Gesellschaft](./iug.md), „Rolle im eigenen Betrieb“ => LF1, GK
+* [Linux-Praktikum](https://johannesloetzsch.github.io/linux-praktikum/) => ZQL
+* [Git](https://johannesloetzsch.github.io/LF7/git.html) => LF5, LF7
+* [KI](https://johannesloetzsch.github.io/LF7/ki.html) => LF1, LF2, LF4, LF5, LF7, …, GK, D/K, Eng
 
 #### Programmieren
 (LF5, LF7, LF8, AE)
@@ -51,6 +67,7 @@ basiert auf:
 #### Netzwerke
 (LF3 + LF9)
 
+* [Kollaborative LF3 Planung + Dokumentation](https://hedgedoc.c3d2.de/LF3) => LF3
 * [Netzwerk Themenabend (Grundlagen)](https://ftp.c3d2.de/themenabend/ta-2024-12-10-nico.pdf) => LF3
 * [Netzwerk Themenabend (Fortgeschritten)](https://ftp.c3d2.de/themenabend/ta-2024-12-10-astro.pdf) => LF9
 

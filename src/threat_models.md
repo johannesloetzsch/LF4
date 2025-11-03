@@ -7,7 +7,7 @@
 
 | typische betroffene Nutergruppe    | Szenario                                         | Angreifer                                             | Angriffswerkzeuge     |
 |------------------------------------|--------------------------------------------------|-------------------------------------------------------| --------------------- |
-| besonders Schwach geschützte Opfer | elementare Gefährdungen, Massenüberwachung       | hoch automatisiert aber ohne konkretes Ziel (z.B. Würmer, Botnet, Scriptkiddie) | Phishing, Fraud, Spam-Emails, Werbebanner, Ransomware, DDoS |
+| besonders schwach geschützte Opfer | elementare Gefährdungen, Massenüberwachung       | hoch automatisiert aber ohne konkretes Ziel (z.B. Würmer, Botnet, Scriptkiddie) | Phishing, Fraud, Spam-Emails, Werbebanner, Ransomware, DDoS |
 | Unternehmen, AktivistInnen         | zielgerichtete Angriffe, (z.B. Industiespionage) | fähig, verfügt über Geld und Personal (z.B. organisierte Kriminalität, Strafverfolgungsbehörden) | Spear-Phishing, Dumpster diving, Hausdurchsuchung, Supply chain attack |
 | [KRITIS](https://de.wikipedia.org/wiki/Kritische_Infrastruktur), Regierungen, Snowden, Wikileaks, … | staatliche Interessen (z.B. Angriff auf kritische Infrastruktur, Wahlmanipulation) | Geheimdienste, „Hacker“ | alles mögliche (z.B. Globale Internetüberwachung, Information warfare, Quantum computing) |
 

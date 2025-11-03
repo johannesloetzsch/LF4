@@ -13,10 +13,18 @@
 
 > [**💡** IuG-Lehrveranstaltung am DuD-Lehrstuhl der TU Dresden](https://tu-dresden.de/ing/informatik/sya/ps/teaching/lectures/iug)
 
+
+## Termine
+
 > **💡💬** Welche Netzpolitischen Fragen werden gegenwärtig entschieden?
 >
 > Welche Veranstaltungen zu relevanten Inhalten finden als nächstes in der Region statt?
->
+
+* 13.11.2025 [Themenabend SculptOS](https://c3d2.de/news/ta-20251113-sculptos.html)
+* 06.12.2025 [BSides Dresden — IT Security Conference](https://bsidesdresden.com/)
+* 27.-30.12.2025 [39th Chaos Communication Congress](https://events.ccc.de/congress/2025/infos/)
+
+
 > * [netzpolitik.org](https://netzpolitik.org/)
 > * [logbuch-netzpolitik.de](https://logbuch-netzpolitik.de/)
 > * [media.ccc.de](http://media.ccc.de/a)
@@ -34,6 +42,16 @@
 <iframe width="560" height="315" src="https://fightchatcontrol.eu/de/"></iframe>
 
 [aktuelle Vorträge über die Chatkontrolle](https://media.ccc.de/search?q=chatkontrolle&sort=desc)
+
+
+### [WikiLeaks](https://de.wikipedia.org/wiki/WikiLeaks)
+
+<iframe width="560" height="315" src="https://media.ccc.de/v/25c3-2916-en-wikileaks/oembed#t=28" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://media.ccc.de/v/26c3-3567-en-wikileaks_release_10/oembed" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NOytcQth9x4?si=FaOK5mEp3AtTcX6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### [Fake News](https://de.wikipedia.org/wiki/Fake_News) / [Alternative Fakten](https://de.wikipedia.org/wiki/Alternative_Fakten), Abhängigkeit von globalen Lieferketten, KI, …
 
