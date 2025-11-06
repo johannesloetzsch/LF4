@@ -6,7 +6,7 @@
 
 ```mermaid
 gantt
- title LF4 November 2025 (3 Tage)
+ title LF4 November 2025 (5 Tage)
  dateFormat YYYY-MM-DD
  axisFormat %d.%m.
  section Mo 27.10.
@@ -15,11 +15,11 @@ gantt
  section Mo 03.11.
   besondere Datenkategorien, Meldepflichten, Verantwortlichkeiten  :2025-11-03, 2h
  section Mi 05.11.
-  Datensparsamkeit, Sicherheitsgrundlagen, IS(M), Gefährdungen   :2025-11-05, 3h
+  Datensparsamkeit, Sicherheitsgrundlagen, Redundanz   :2025-11-05, 3h
  section Do 06.11.
-  BSI-Grundschutz, Schutzbedarfsanalyse  :2025-11-06, 3h
+  ISM, BSI-Grundschutz, Gefährdungen, Angreifermodell  :2025-11-06, 3h
  section Fr 07.11.
-  TOM, Endgerätesicherheit, Redundanz  :2025-11-07, 6h
+  TOM, Schutzbedarfsanalyse, Endgerätesicherheit  :2025-11-07, 4h
   SOL Praxisbeispiele             :crit, milestone, 2025-11-07, 2h
 ```
 
@@ -72,10 +72,16 @@ gantt
   * Themen: Alles was im Unterricht bis dahin behandelt wurde…
   * Schwerpunkte (bisher vermittelter Inhalte — wird schrittweise ergänzt):
     * [Datenschutz & Datensicherheit](./dud.md): Begriffsunterscheidung
-     * [Datenschutz](./datenschutz.md): relevante Gesetze
-     * [Prinzipien](./datenschutz_prinzipien.md): Verbot mit Erlaubnisvorbehalt, Grundsätze für die Verarbeitung, Betroffenenrechte, besonderer Kategorien personenbezogener Daten, Melde-/Benachrichtigungspflichte
-     * Datenverarbeitungsprozesse: [Menschen- und Maschinenlesbaren Datenformate](./oer.md)
-     * [EMail](./mail.md): TO/CC/BCC, Mailinglisten, FROM, Verschlüsselung
+      * [Datenschutz](./datenschutz.md): relevante Gesetze
+      * [Prinzipien](./datenschutz_prinzipien.md): Verbot mit Erlaubnisvorbehalt, Grundsätze für die Verarbeitung, Betroffenenrechte, besonderer Kategorien personenbezogener Daten, Melde-/Benachrichtigungspflichte
+      * [Datensparsamkeit](./datensparsamkeit.md): Privacy by Default, Privacy by Design, Anonymität, Pseudonymität
+      * [Datensicherheit](./datensicherheit.md): Safety vs. Security, Schutzziele / Hauptziele / Grundwerte, Relative Sicherheit, „Stand der Technik“, Qualität
+        * [Sicherheitsmanagement](./ism.md): ISO 27001, IT-Grundschutz-Methodik
+          * [Notfallmanagement](./notfallmanagement.md)
+    * [Gefährdungen](./gefährungen.md): Malware, Ransomware, Würmer, Trojaner, Phishing, Spear-Phishing, DoS, DDoS
+
+    * Datenverarbeitungsprozesse: [Menschen- und Maschinenlesbaren Datenformate](./oer.md)
+    * [EMail](./mail.md): TO/CC/BCC, Mailinglisten, FROM, Verschlüsselung
 
      <!--
      * [Informatik und Gesellschaft](./iug.md)

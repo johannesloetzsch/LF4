@@ -7,9 +7,13 @@
 
 ## Gefährdungen mit besonderer Relevanz für die IHK-Prüfung
 
-### [Malware, Ransomware, Trojaner](https://de.wikipedia.org/wiki/Schadprogramm)
-### [Phishing](https://de.wikipedia.org/wiki/Phishing)
+### [Malware, Ransomware, Würmer, Trojaner](https://de.wikipedia.org/wiki/Schadprogramm)
+### [Phishing](https://de.wikipedia.org/wiki/Phishing), [Spear-Phishing](https://de.wikipedia.org/wiki/Phishing#Spear-Phishing)
 ### [DoS, DDoS](https://de.wikipedia.org/wiki/Denial_of_Service)
+
+> **💡** Aktuelle Bedrohungen
+>
+> [BSI Monatsbericht "IT-Sicherheitslage"](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Lageberichte/Monatsbericht_Lage-Cybernation/Lage_Bedrohungen/lage-Bedrohungen.html)
 
 
 ## Ausblick: Supply Chain Vulnerabilities

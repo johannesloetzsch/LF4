@@ -1,5 +1,16 @@
-# [Threat Models](https://en.wikipedia.org/wiki/Threat_model) / Bedrohungsszenarien => Angreifermodelle
+# [Threat Models](https://en.wikipedia.org/wiki/Threat_model) /„Bedrohungsmodellierung“ => Angreifermodelle
 
+<!-- toc -->
+
+
+## Werkzeuge zur Modellierung
+
+> [**💡** OWASP Threat Modeling Project](https://owasp.org/www-project-threat-model/#div-resources)
+
+> [**💡** BSI zu Risikoszenarien](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-Notfallmanagement/4_RisikenAnalysieren/3_Szenarien%20bilden/SzenarienBilden_node.html)
+
+
+## Beispiele
 
 > **❓❗** Für mein Projekt (mein System, meine Software, meine Nutzer), von welchen Szenarien muss ich ausgehen?
 >
@@ -16,7 +27,7 @@
 <iframe width="560" height="315" src="https://media.ccc.de/v/ds24-422-sequoia-pgp-a-not-quite-new-implementation-of-openpgp/oembed#t=803" frameborder="0" allowfullscreen></iframe>
 
 
-## KRITIS & Hybride Kriegsführung
+## Ausblick: KRITIS & Hybride Kriegsführung
 
 > [**💡** Reportage: „Die gefährlichsten Hacker der Welt“](https://www.youtube.com/watch?v=QSVQR_7fAFQ)
 >
@@ -27,8 +38,3 @@
 > [**💡** Hybride Kriegsführung gegen Deutschland?!](https://www.youtube.com/watch?v=XTilR30XCT0)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XTilR30XCT0?si=Lez6gzecVPH9XraH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-## Werkzeuge zur Modellierung
-
-> [**💡** OWASP Threat Modeling Project](https://owasp.org/www-project-threat-model/#div-resources)

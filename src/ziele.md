@@ -17,6 +17,13 @@
 * **Wirksamkeit** und **Effizienz** der umgesetzten Maßnahmen zur IT-Sicherheit und zum Datenschutz **prüfen**
 
 
+## Lehrplan:
+
+> [**💡** schulportal.sachsen.de](https://www.schulportal.sachsen.de/lplandb/lehrplan/398#page398_92588)
+
+> [**💡** Beispiele für Lernsituationen](https://www.schulportal.sachsen.de/lplandb/lehrplan/398#page398_92588)
+
+
 ## Prüfungskatalog:
 (Stand: 2. Auflage 2024)
 

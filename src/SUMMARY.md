@@ -2,6 +2,7 @@
 
 * [LF4](./README.md)
   * [Ziele](./ziele.md)
+    * [Schülerziele](./schülerziele.md)
   * [Plan](./plan.md)
 * [Datenschutz & Datensicherheit](./dud.md)
   * [Datenschutz](./datenschutz.md)
@@ -30,4 +31,5 @@
     * [OER](./oer.md)
     * [Informatik und Gesellschaft](./iug.md)
     * [IP](./ip.md)
+    * [Binärzahlen](./binärzahlen.md)
 * [Prüfen](./testen.md)

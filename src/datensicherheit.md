@@ -18,6 +18,10 @@ flowchart TB
   Sicherheit --> Security
 ```
 
+> **Safety** (Betriebssicherheit): schützt vor unbeabsichtigten, zufälligen Gefahren, die als „Unfall“ eintreten können
+
+> **Security** (Angriffssicherheit): schützt vor absichtlichen, gezielten Bedrohungen durch z.B. kriminelle oder böswillige Handlungen
+
 
 ## „Schutzziele“ / „Hauptziele“ / „Grundwerte“
 
@@ -78,4 +82,11 @@ flowchart TB
 ```
 
 ## Berechnung des Nutzens von Sicherheit
+
+<!--
+$$
+\text{Erwartungswert} = \sum (\text{Wahrscheinlichkeit} \times \text{Schadenshöhe})
+$$
+-->
+
 Erwartetungswert<sub>Schaden</sub> = ∑ Wahrscheinlichkeit<sub>Schadenseintritt</sub> * Schadenshöhe<sub>Schadensfall</sub>
