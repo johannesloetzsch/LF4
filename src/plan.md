@@ -73,8 +73,8 @@ gantt
   * Schwerpunkte (bisher vermittelter Inhalte — wird schrittweise ergänzt):
     * [Datenschutz & Datensicherheit](./dud.md): Begriffsunterscheidung
       * [Datenschutz](./datenschutz.md): relevante Gesetze
-      * [Prinzipien](./datenschutz_prinzipien.md): Verbot mit Erlaubnisvorbehalt, Grundsätze für die Verarbeitung, Betroffenenrechte, besonderer Kategorien personenbezogener Daten, Melde-/Benachrichtigungspflichte
-      * [Datensparsamkeit](./datensparsamkeit.md): Privacy by Default, Privacy by Design, Anonymität, Pseudonymität
+        * [Prinzipien](./datenschutz_prinzipien.md): Verbot mit Erlaubnisvorbehalt, Grundsätze für die Verarbeitung, Betroffenenrechte, besonderer Kategorien personenbezogener Daten, Melde-/Benachrichtigungspflichte
+        * [Datensparsamkeit](./datensparsamkeit.md): Privacy by Default, Privacy by Design, Anonymität, Pseudonymität
       * [Datensicherheit](./datensicherheit.md): Safety vs. Security, Schutzziele / Hauptziele / Grundwerte, Relative Sicherheit, „Stand der Technik“, Qualität
         * [Sicherheitsmanagement](./ism.md): ISO 27001, IT-Grundschutz-Methodik
           * [Notfallmanagement](./notfallmanagement.md)
