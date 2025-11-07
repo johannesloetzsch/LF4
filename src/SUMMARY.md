@@ -33,4 +33,5 @@
     * [LF3](./lf3.md)
       * [Binärzahlen](./binärzahlen.md)
       * [IP](./ip.md)
+    * [Hausaufgabe bis 02.12.25](./sol_25_12_01_praxisbeispiele.md)
 * [Prüfen](./testen.md)

@@ -70,6 +70,8 @@ basiert auf:
 * [Kollaborative LF3 Planung + Dokumentation](https://hedgedoc.c3d2.de/LF3) => LF3
 * [Netzwerk Themenabend (Grundlagen)](https://ftp.c3d2.de/themenabend/ta-2024-12-10-nico.pdf) => LF3
 * [Netzwerk Themenabend (Fortgeschritten)](https://ftp.c3d2.de/themenabend/ta-2024-12-10-astro.pdf) => LF9
+* [OpenWrt Router Lernprojekt](https://hedgedoc.c3d2.de/lernprojekt_openwrt) => LF3, LF9
+* [Network Academy (Quiz, kein OER)](https://www.netacad.com) => LF3, LF9
 
 #### Systemintegration
 (LF10b, LF11b, LF12b)

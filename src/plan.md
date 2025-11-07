@@ -19,7 +19,7 @@ gantt
  section Do 06.11.
   ISM, BSI-Grundschutz, Gefährdungen, Angreifermodell  :2025-11-06, 3h
  section Fr 07.11.
-  TOM, Schutzbedarfsanalyse, Endgerätesicherheit  :2025-11-07, 4h
+  TOM, Endgerätesicherheit  :2025-11-07, 4h
   SOL Praxisbeispiele             :crit, milestone, 2025-11-07, 2h
 ```
 
@@ -40,9 +40,9 @@ gantt
  dateFormat YYYY-MM-DD
  axisFormat %d.%m.
  section Do 22.01.
-  TLS, Mail, WLAN                 :2025-01-22, 3h
+  Schutzbedarfsanalyse            :2025-01-22, 3h
  section Fr 23.01.
-  VPN, Prüfen                     :2025-01-23, 4h
+  TLS, Mail, WLAN, VPN, Prüfen    :2025-01-23, 4h
   SOL Schutzbedarfsanalyse        :crit, milestone, 2025-01-23, 2h
  section Mi 28.01.
   Q&A, Wiederholung               :2025-01-28, 3h

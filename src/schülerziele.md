@@ -18,6 +18,7 @@
 > **💬** Welche Wünsche gibt es für den Spaßfaktor?
 
 ### 🔁 Interaktive Elemente
+- [x] **Hedgedoc**
 - [ ] **Mehr Zusammenarbeit** mit Schülern
 - [ ] Kleine Wiederholungsfragen einbauen
 - [ ] Gemeinsames Erarbeiten von Inhalten
