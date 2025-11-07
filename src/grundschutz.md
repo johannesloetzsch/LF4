@@ -20,7 +20,7 @@ Die IT-Grundschutz-Methodik etabliert drei Vorgehensweisen um um ein ISMS umzuse
 ![](./img/Diagramm_BSI_IT-Grundschutz_Kern.png)
 
 ### Standard-Absicherung
-=> kompletter Sicherheitsprozess, der als [Grundlage für Zertifizierung](https://de.wikipedia.org/wiki/IT-Grundschutz#ISO_27001-Zertifikat_auf_der_Basis_von_IT-Grundschutz) nach ISO 27001 dienen kann
+=> **kompletter** Sicherheitsprozess, der als [Grundlage für Zertifizierung](https://de.wikipedia.org/wiki/IT-Grundschutz#ISO_27001-Zertifikat_auf_der_Basis_von_IT-Grundschutz) nach ISO 27001 dienen kann
 
 ![](./img/Diagramm_BSI_IT-Grundschutz_Standard.png)
 

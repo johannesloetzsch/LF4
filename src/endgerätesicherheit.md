@@ -2,15 +2,15 @@
 
 z.B.:
 * Softwarequellen
-* Sicherheitsupdates
+* **Sicherheitsupdates**
 * Secure Boot
-* Mit minimalen Privilegien arbeiten
+* **Mit minimalen Privilegien arbeiten**
 * Unbenötigte Dienste „deaktivieren“
 * Backups
 * Firewall
 * Antivirenschutz
 * Nutzer und Dateiberechtigungen
-* Passwortmanager
+* **Passwortmanager**
 * Dokumentation, Schulungen
 * …
 

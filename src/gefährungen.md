@@ -7,9 +7,9 @@
 
 ## Gefährdungen mit besonderer Relevanz für die IHK-Prüfung
 
-### [Malware, Ransomware, Würmer, Trojaner](https://de.wikipedia.org/wiki/Schadprogramm)
-### [Phishing](https://de.wikipedia.org/wiki/Phishing), [Spear-Phishing](https://de.wikipedia.org/wiki/Phishing#Spear-Phishing)
-### [DoS, DDoS](https://de.wikipedia.org/wiki/Denial_of_Service)
+### [Malware: Ransomware, Würmer, Trojaner](https://de.wikipedia.org/wiki/Schadprogramm)
+### [Phishing](https://de.wikipedia.org/wiki/Phishing): [Spear-Phishing](https://de.wikipedia.org/wiki/Phishing#Spear-Phishing)
+### [DoS: DDoS](https://de.wikipedia.org/wiki/Denial_of_Service)
 
 > **💡** Aktuelle Bedrohungen
 >
