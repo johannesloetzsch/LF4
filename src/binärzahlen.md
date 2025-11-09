@@ -23,3 +23,8 @@ Wenn man Binär in Dezimal umrechnen möchte addiert man die Zahlen, die in "Zah
 Wenn man Binär in Dezimal umrechnen will, dann teilt man die Zahl so lang auf, bis man die Zahl hat, dabei beginnt man mit dem größten Bestandteil und trägt dort eine `1` ein bei dem Rest `0`. 
 
 Führende Nullen vor der ersten `1` kann man weglassen ~~0 0 0 0~~ 1 0 0 0 0 1 => 1 0 0 0 0 1
+
+
+> **💡** Ausblick: Welche Fehler beim binären Rechnen können in Prozessoren auftreten?
+>
+> => [LF7](https://johannesloetzsch.github.io/LF7/binary.html), [CTF LF11](https://github.com/johannesloetzsch/LF11b/tree/main/src/ctf/ctf1)

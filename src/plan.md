@@ -42,7 +42,7 @@ gantt
  section Do 22.01.
   Schutzbedarfsanalyse            :2025-01-22, 3h
  section Fr 23.01.
-  TLS, Mail, WLAN, VPN, Prüfen    :2025-01-23, 4h
+  Layer8, Mail, Physical Security, WLAN, TLS, VPN, Prüfen    :2025-01-23, 4h
   SOL Schutzbedarfsanalyse        :crit, milestone, 2025-01-23, 2h
  section Mi 28.01.
   Q&A, Wiederholung               :2025-01-28, 3h
@@ -68,9 +68,11 @@ gantt
 
 ## Leistungsnachweise
 * **Klassenarbeit** (doppelte Wertung, 90min, handschriftlich)
-  * erlaubte Hilfsmittel: Fact sheet (1 A4-Blatt, einseitig beschrieben)
+  * erlaubte Hilfsmittel:
+    * **Fact sheet** (1 A4-Blatt, einseitig beschrieben)
+    * **Wörterbuch**
   * Themen: Alles was im Unterricht bis dahin behandelt wurde…
-  * Schwerpunkte (bisher vermittelter Inhalte — wird schrittweise ergänzt):
+  * **Schwerpunkte** (bisher vermittelter Inhalte — wird schrittweise ergänzt):
     * [Datenschutz & Datensicherheit](./dud.md): Begriffsunterscheidung
       * [Datenschutz](./datenschutz.md): relevante Gesetze
         * [Prinzipien](./datenschutz_prinzipien.md): Verbot mit Erlaubnisvorbehalt, Grundsätze für die Verarbeitung, Betroffenenrechte, besonderer Kategorien personenbezogener Daten, Melde-/Benachrichtigungspflichte
@@ -79,6 +81,10 @@ gantt
         * [Sicherheitsmanagement](./ism.md): ISO 27001, IT-Grundschutz-Methodik
           * [Notfallmanagement](./notfallmanagement.md)
     * [Gefährdungen](./gefährungen.md): Malware, Ransomware, Würmer, Trojaner, Phishing, Spear-Phishing, DoS, DDoS
+      * [Angreifermodelle](./threat_models.md) (Benutzergruppe und Szenario bescheiben, typische Angreifer identifieren)
+    * [IT-Grundschutz-Methodik](./grundschutz.md): Basis-, Kern-, Standard-Absicherung
+    * [TOM](./tom.md) (benennen)
+      * [Endgerätesicherheit](./endgerätesicherheit.md) (Maßnahmen beschreiben)
 
     * Datenverarbeitungsprozesse: [Menschen- und Maschinenlesbaren Datenformate](./oer.md)
     * [EMail](./mail.md): TO/CC/BCC, Mailinglisten, FROM, Verschlüsselung

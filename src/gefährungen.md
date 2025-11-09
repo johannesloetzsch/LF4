@@ -7,9 +7,17 @@
 
 ## Gefährdungen mit besonderer Relevanz für die IHK-Prüfung
 
+> **❓❗** Erklären Sie die folgenden Gefährdungen.
+>
+> Beschreiben Sie die Begriffe im Zusammenhang und benennen Sie Beispiele.
+>
+> Versuchen Sie, die Gemeinsamkeiten und Unterschiede der verschiedenen Gefährdungen zu erklären.
+
 ### [Malware: Ransomware, Würmer, Trojaner](https://de.wikipedia.org/wiki/Schadprogramm)
 ### [Phishing](https://de.wikipedia.org/wiki/Phishing): [Spear-Phishing](https://de.wikipedia.org/wiki/Phishing#Spear-Phishing)
 ### [DoS: DDoS](https://de.wikipedia.org/wiki/Denial_of_Service)
+
+> **💡** [Von FI25 ausformulierte Erklärungen](https://hedgedoc.c3d2.de/LF4_Notes#Gef%C3%A4hrdungen-2-%C3%9Cberarbeitet)
 
 > **💡** Aktuelle Bedrohungen
 >
