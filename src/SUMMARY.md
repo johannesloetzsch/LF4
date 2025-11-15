@@ -40,5 +40,6 @@
     * [LF9](./lf9.md)
       * [SSL/TLS](./tls.md)
       * [VPN](./vpn.md)
+    * [LF11a](./lf11a.md)
     * [Hausaufgabe bis 02.12.25](./sol_25_12_01_praxisbeispiele.md)
 * [Prüfen](./testen.md)

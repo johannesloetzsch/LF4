@@ -16,3 +16,7 @@
 ## Ausblick: Psychologie
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9M_QK4stCJU?si=B1KT9YJiIpujp0xj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> [**💡** Buchempfehlung: Kevin D. Mitnick „The Art of Deception“](https://de.wikipedia.org/wiki/Die_Kunst_der_T%C3%A4uschung_(Buch))
+>
+> [![](https://upload.wikimedia.org/wikipedia/en/9/9f/ArtofDeception.JPG)](https://de.wikipedia.org/wiki/Die_Kunst_der_T%C3%A4uschung_(Buch))
