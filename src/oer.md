@@ -15,6 +15,12 @@
 >
 > Begründen Sie ihre Aussagen.
 
+### Markdown
+
+> [**💡** Markdown Guide](https://www.markdownguide.org/)
+> 
+> [![](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)](https://www.markdownguide.org/)
+
 
 ### Werkzeuge
 
@@ -26,11 +32,19 @@ basiert auf:
 * <img src="https://avatars.githubusercontent.com/u/487568" style="height: 1em"/> [Nix Flakes](https://nixos.wiki/wiki/flakes)
 * [`.github/workflows`](https://github.com/johannesloetzsch/LF4/tree/main/.github/workflows) [CI/CD](https://de.wikipedia.org/wiki/CI/CD)
 
-#### Weitere ([Empfehlungen aus LF3](https://hedgedoc.c3d2.de/LF3#Textbasierte-Dateiformate))
+#### Weitere
 
-> **💡** [HedgeDoc Instanz des C3D2](https://hedgedoc.c3d2.de)
+> **💡** [HedgeDoc-Instanz des C3D2](https://hedgedoc.c3d2.de)
+>
+> <iframe width="700" height="600" src="https://hedgedoc.org/"></iframe>
 
-<iframe width="1024" height="576" src="https://hedgedoc.org/"></iframe>
+* [Empfehlungen aus LF3](https://hedgedoc.c3d2.de/LF3#Textbasierte-Dateiformate)
+
+##### HTML-Rendering
+
+* [MDBook](https://mdbook-guide.irust.net/en-us/guide/creating.html)
+* [Docusaurus](https://github.com/facebook/docusaurus)
+* [Markdown in Astro](https://docs.astro.build/en/guides/markdown-content/)
 
 #### proprietäres Wissensmanagement
 
@@ -49,6 +63,8 @@ basiert auf:
 
 #### Programmieren
 (LF5, LF7, LF8, AE)
+
+* [UML](https://github.com/johannesloetzsch/LF7/blob/main/src/pruefung/uml_sus_mitschriften.md) => LF5
 
 * [Python Tutorial](https://johannesloetzsch.github.io/python-tutorial/getting_started.html) => LF5
   * Professionelles Tooling => LF10a, LF11a, LF12
