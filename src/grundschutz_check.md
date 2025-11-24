@@ -28,9 +28,11 @@
 * NET: **Netze und Kommunikation** *=> SI*
 * INF: **Infrastruktur** *=> SI*
 
+> [**💡** Lerneinheit zur Modellierung mittels IT-Grundschutz-Bausteinen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_5_Modellierung/Lektion_5_01/Lektion_5_01_node.html)
+
 ## [Checklisten zum IT-Grundschutz](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/IT-GS-Kompendium/checklisten_2023.zip?__blob=publicationFile&v=4)
 
-> **💡** Als Unterstützung für die Umsetzung, stellt das BSI [Checklisten zum IT-Grundschutz](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/IT-GS-Kompendium/checklisten_2023.zip?__blob=publicationFile&v=4) bereit.
+> **💡** Als Unterstützung für die Umsetzung, stellt das BSI [**Checklisten zum IT-Grundschutz**](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/IT-GS-Kompendium/checklisten_2023.zip?__blob=publicationFile&v=4) bereit.
 >
 > Diese Checklisten können genutzt werden, um für jeden einzelnen Grundschutz-Baustein zu planen/dokumentieren:
 > * ob der Baustein umgesetzt werden soll

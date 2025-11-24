@@ -3,6 +3,8 @@
 
 <!-- toc -->
 
+> **❓** Wann wird die Risikoanalyse empfohlen?
+
 Nach der Schutzbedarfsanalyese ist zusätzlicher Analysebedarf in folgenden Fällen nötig:
 
 * Ein Zielobjekt hat einen hohen oder sehr hohen Schutzbedarf in mindestens einem der drei Grundwerte Vertraulichkeit, Integrität und Verfügbarkeit.
@@ -12,6 +14,8 @@ Nach der Schutzbedarfsanalyese ist zusätzlicher Analysebedarf in folgenden Fäl
 [![von dem Server hängt die ganze Produktion ab](https://www.bsi.bund.de/SharedDocs/Bilder/DE/BSI/Themen/grundschutzdeutsch/Webkurs2018/Abb_7_00_Illustration.png?__blob=normal&v=1)](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_7_Risikoanalyse/Lektion_7_node.html)
 
 ## Vorgehen
+
+> **❓❗** Wie wird die Risikoanalyse durchgeführt?
 
 * Gefährdungsübersicht erstellen
   * [Organisatorische Rahmenbedingungen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_7_Risikoanalyse/Lektion_7_01/Lektion_7_01_node.html)

@@ -2,7 +2,11 @@
 
 <!-- toc -->
 
+> **❓💬** Welchen Zweck erfüllt die Schutzbedarfsanalyse?
+
 ![](https://www.bsi.bund.de/SharedDocs/Bilder/DE/BSI/Themen/grundschutzdeutsch/Webkurs2018/Abb_4_00_Illustration.png?__blob=normal&v=1)
+
+> **❓❗** Wie wird die Schutzbedarfsanalyse durchgeführt?
 
 ## [Grundlegende Definitonen nach BSI-Grundschutz](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_4_Schutzbedarfsfeststellung/Lektion_4_01/Lektion_4_01_node.html)
 
