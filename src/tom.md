@@ -2,6 +2,12 @@
 
 <!-- toc -->
 
+```mermaid
+flowchart TB
+TOM --> t[technische Maßnahmen]
+TOM --> o[organisatorische Maßnahmen]
+o -.-> p[personelle Maßnahmen]
+```
 
 ## [14 „Anforderungen an die Sicherheit der Datenverarbeitung“ nach § 64 BDSG](https://www.gesetze-im-internet.de/bdsg_2018/__64.html)
 

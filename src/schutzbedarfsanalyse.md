@@ -57,6 +57,11 @@ z.B.
 ### [Beispiel](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_4_Schutzbedarfsfeststellung/Lektion_4_05/Lektion_4_05_node.html)
 
 
+### [Vererbung](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_4_Schutzbedarfsfeststellung/Lektion_4_03/Lektion_4_03_node.html) und Maximumprinzip
+
+> **Maximumprinzip**: von allen Einzelbewertungen wird der **höchste Schutzbedarf** für das Gesamtsystem übernommen
+
+
 ### Interpretation
 
 Für normalen Schutzbedarf:
