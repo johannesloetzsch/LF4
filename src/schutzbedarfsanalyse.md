@@ -28,6 +28,7 @@
 * Sehr hoher Schutzbedarf
 
 ### 4 Risikokategorien
+(für Risikoanalyse — bitte nicht mit Schutzbedarfskategorien verwechseln)
 
 * Geringes Risiko
 * Mittelmäßiges Risiko
@@ -65,7 +66,7 @@ z.B.
 ### Interpretation
 
 Für normalen Schutzbedarf:
-* IT-Grundschutzhandbuch -> IT-Grundschutz-Kataloge -> **IT-Grundschutz-Kompendium**
+* *IT-Grundschutzhandbuch -> IT-Grundschutz-Kataloge ->* **IT-Grundschutz-Kompendium**
 
 Zusätzlicher Analysebedarf (**Risikoanalyse**) falls:
 * Ein Zielobjekt hat einen hohen oder sehr hohen Schutzbedarf in mindestens einem der Schutzziele
