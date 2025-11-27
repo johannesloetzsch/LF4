@@ -30,7 +30,7 @@ flowchart TB
   subgraph Verfügbarkeit[Schutz vor Ausfall]
     **Verfügbarkeit**
   end
-  subgraph Integrität[Schuzt vor Manipulation]
+  subgraph Integrität[Schutz vor Manipulation]
     **Integrität**
   end
   subgraph Vertraulichkeit[Schutz der Geheimhaltung]
