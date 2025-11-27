@@ -53,7 +53,7 @@ flowchart TB
 ## „Stand der Technik“
 => entwickelt sich mit der Fortschritt der Technologie weiter
 
-=> Einsatz von modenen und effektiven Sicherheitsmaßnahmen nötig
+=> Einsatz von modernen und effektiven Sicherheitsmaßnahmen nötig
 
 => [**kontinuierlicher Verbesserungsprozess**](https://de.wikipedia.org/wiki/Kontinuierlicher_Verbesserungsprozess) (KVP)
 
