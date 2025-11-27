@@ -6,6 +6,8 @@
 
 > **❓❗** Wie funktioniert OAuth2?
 
+> **📝❗** FiAE AP2 Planung Winter 2022 Aufgabe 1f
+
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d8/OAuth_Roles.svg)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/28/Protocol-Flow.png)

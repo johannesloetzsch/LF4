@@ -6,6 +6,9 @@
 ## [Relative Sicherheit](datensicherheit.md#relative-sicherheit)
 => Wir schaffen es leider nicht komplexe Systeme absolut Sicher umzusetzen
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EMM7buzmIxw?si=gV38VctyVos6kvvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Problem: Komplexität
 
 > **❓❗** Wieviele verschiedene Zustände kann ein 32bit großer Speicher annehmen?
@@ -15,6 +18,8 @@
 > **❓❗** Was bedeutet exponentielles Wachstum für Testbarkeit?
 >
 > Was kann Testen überhaupt leisten?
+
+> **📝❗** FiAE AP2 Entwicklung Winter 2022 Aufgabe 2
 
 
 ### Deshalb: [KISS-Prinzip](https://de.wikipedia.org/wiki/KISS-Prinzip)
@@ -44,3 +49,5 @@
 
 ![Schlangenöl](http://cdn.history.com/sites/2/2017/09/snake_oil_DHNWXP.jpg)
 [![Schlangenöl](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Snake-oil_salesman_Professor_Thaddeus_Schmidlap_at_Enchanted_Springs_Ranch%2C_Boerne%2C_Texas%2C_USA_28650a.jpg/800px-Snake-oil_salesman_Professor_Thaddeus_Schmidlap_at_Enchanted_Springs_Ranch%2C_Boerne%2C_Texas%2C_USA_28650a.jpg)](https://de.wikipedia.org/wiki/Schlangen%C3%B6l)
+
+> **📝❗** FiAE AP2 Planung Winter 2022 Aufgabe 1a-b „IT-Security-Service“

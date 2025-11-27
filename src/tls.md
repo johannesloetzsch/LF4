@@ -4,6 +4,10 @@
 
 > **❓❗** Wie wird der Session Key für eine TLS-Verbindung generiert?
 
+> **📝❗** FiAE AP2 Planung Winter 2022 Aufgabe 4c
+
+> **📝❗** FiAE AP2 Planung Winter 2022 Aufgabe 1d <!-- 2023? -->
+
 ```mermaid
 sequenceDiagram
     participant Client
