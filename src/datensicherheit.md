@@ -23,18 +23,20 @@ flowchart TB
 > **Security** (Angriffssicherheit): schützt vor absichtlichen, gezielten Bedrohungen durch z.B. kriminelle oder böswillige Handlungen
 
 
-## „Schutzziele“ / „Hauptziele“ / „Grundwerte“
+## [„Schutzziele“ / „Hauptziele“ / „Grundwerte“ / „CIA(-Triade)“](https://de.wikipedia.org/wiki/Informationssicherheit#Motivation_und_Ziele_der_Informationssicherheit)
+(Synonyme, die das gleiche meinen)
+
 
 ```mermaid
 flowchart TB
-  subgraph Verfügbarkeit[Schutz vor Ausfall]
-    **Verfügbarkeit**
+  subgraph Vertraulichkeit[Schutz der Geheimhaltung]
+    c[**Vertraulichkeit**<br/>**C**onfidentiality]
   end
   subgraph Integrität[Schuzt vor Manipulation]
-    **Integrität**
+    i[**Integrität**<br/>**I**ntegrity]
   end
-  subgraph Vertraulichkeit[Schutz der Geheimhaltung]
-    **Vertraulichkeit**
+  subgraph Verfügbarkeit[Schutz vor Ausfall]
+    a[**Verfügbarkeit**<br/>**A**vailability]
   end
   Sicherheit --> Verfügbarkeit -..-> r[(&nbsp;<br>Redundanz<br>&nbsp;)]
   Sicherheit --> Integrität -..-> s[(&nbsp;<br>Signaturen + Authentifizierung)]
