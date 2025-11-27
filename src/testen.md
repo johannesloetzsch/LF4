@@ -1,6 +1,6 @@
 # Prüfen / Testen
 
 ```
-* Penatrationstests
+* Penetrationstests
 * Honeypot
 ```
