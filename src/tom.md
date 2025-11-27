@@ -13,7 +13,7 @@ o -.-> p[personelle Maßnahmen]
 
 | TOM                     | Beschreibung                                                                                                          | Beispiele                                                                                      |
 |-------------------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Speicherkontrolle       | Verhinderung unbefugter Kenntnissnahme, Eingabe oder Veränderung **personenbezogener Daten**                          |                                                                                                |
+| Speicherkontrolle       | Verhinderung unbefugter Kenntnisnahme, Eingabe oder Veränderung **personenbezogener Daten**                          |                                                                                                |
 | Datenträgerkontrolle    | Verhinderung unbefugten Lesens (Kopierens) oder Veränderns von **Datenträgern**                                       |                                                                                                |
 | Eingabekontrolle        | Gewährleistung der **Überprüfbarkeit**, von wem und wann personenbezogene Daten eingegeben wurden                     |                                                                                                |
 | Transportkontrolle      | Gewährleistung von Vertraulichkeit und Integrität bei **Übermittlung** personenbezogener Daten                        | VPN; Verschlüsselung                                                                           |
