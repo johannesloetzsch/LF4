@@ -10,7 +10,7 @@
 
   * Kunden und Kundinnen im Hinblick auf Anforderungen an die IT-Sicherheit und an den Datenschutz **beraten**
 
-* Sicheheitsanforderungen von IT-Systemen **analysieren** und **Maßnahmen** zur IT-Sicherheit ableiten, abstimmen, **umsetzen** und **evaluieren**
+* Sicherheitsanforderungen von IT-Systemen **analysieren** und **Maßnahmen** zur IT-Sicherheit ableiten, abstimmen, **umsetzen** und **evaluieren**
 
   * **Sicherheitsmechanismen** insbesondere **Zugriffsmöglichkeiten** und -rechte festlegen und **implementieren**
 
@@ -37,10 +37,10 @@
   * IT-Systeme
   * Räume
   * Kommunikationsverbindungen
-* *(AP1/06/03)* Modellierung eines arbeitsplatzbezogenen Sicheheitskonzeptes nach BSI-Grundschutz
+* *(AP1/06/03)* Modellierung eines arbeitsplatzbezogenen Sicherheitskonzeptes nach BSI-Grundschutz
   * Bausteine aus dem Grundschutzkatalog
   * Schutzbedarfskategorien
-  * IT-Sicheheitsmanagementsystem implementieren
+  * IT-Sicherheitsmanagementsystem implementieren
   * Betrieblicher IT-Sicherheitsbeauftragter
 * *(AP1/06/04)* Umsetzung des arbeitsplatzbezogenen Sicherheitskonzeptes unterstützen können
   * Schaffung eines Sicherheitsbewusstseins bei den Mitarbeitern
@@ -69,7 +69,7 @@
 * *(AP2AE2/01/10 -> LF9)* Maßnahmen zur Sicherstellung des Betriebes beurteilen können
   * *USV, Raid*
   * **Backups**
-* *(AP2AE2/01/11 -> LF12)* **Monitoringsysteme** anwenden und Ergibnisse interpretieren können
+* *(AP2AE2/01/11 -> LF12)* **Monitoringsysteme** anwenden und Ergebnisse interpretieren können
   * Festlegen der Monitoringdaten
   * SNMP, S.M.A.R.T
   * Systemlastanalyse
