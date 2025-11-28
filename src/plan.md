@@ -19,19 +19,19 @@ gantt
  section Do 06.11.
   ISM, BSI-Grundschutz, Gefährdungen, Angreifermodell  :2025-11-06, 3h
  section Fr 07.11.
-  TOM, Endgerätesicherheit  :2025-11-07, 4h
-  SOL Praxisbeispiele             :crit, milestone, 2025-11-07, 2h
+  TOM, Endgerätesicherheit                             :2025-11-07, 4h
+  SOL Praxisbeispiele                                  :crit, milestone, 2025-11-07, 2h
 ```
 
 ```mermaid
 gantt
- title LF4 Dezember 2025 (2 Tage)
+ title LF4 Dezember 2025 (1 Tag + SOL)
  dateFormat YYYY-MM-DD
  axisFormat %d.%m.
  section Mi 03.12.
-  Kryptographie                   :2025-12-03, 3h
- section Do 04.12.
-  Authentifizierung               :2025-12-04, 3h
+  Praxisbeispiele + Projekte + Kryptographie-Einstieg     :2025-12-03, 3h
+ section Fr 05.12.
+  SOL Projektplanung              :crit, milestone, 2025-12-05, 2h
 ```
 
 ```mermaid
@@ -40,9 +40,9 @@ gantt
  dateFormat YYYY-MM-DD
  axisFormat %d.%m.
  section Do 22.01.
-  Schutzbedarfsanalyse            :2025-01-22, 3h
+  Schutzbedarfsanalyse, Risikobehandlung  :2025-01-22, 3h
  section Fr 23.01.
-  Layer8, Mail, Physical Security, WLAN, TLS, VPN, Prüfen    :2025-01-23, 4h
+  Beispiele (Layer8, Physical Security)   :2025-01-23, 4h
   SOL Schutzbedarfsanalyse        :crit, milestone, 2025-01-23, 2h
  section Mi 28.01.
   Q&A, Wiederholung               :2025-01-28, 3h
@@ -71,8 +71,7 @@ gantt
   * erlaubte Hilfsmittel:
     * **Fact sheet** (1 A4-Blatt, einseitig beschrieben)
     * **Wörterbuch**
-  * Themen: Alles was im Unterricht bis dahin behandelt wurde…
-  * **Schwerpunkte** (bisher vermittelter Inhalte — wird schrittweise ergänzt):
+  * **Schwerpunkte**:
     * [Datenschutz & Datensicherheit](./dud.md): Begriffsunterscheidung
       * [Datenschutz](./datenschutz.md): relevante Gesetze
         * [Prinzipien](./datenschutz_prinzipien.md): Verbot mit Erlaubnisvorbehalt, Grundsätze für die Verarbeitung, Betroffenenrechte, besonderer Kategorien personenbezogener Daten, Melde-/Benachrichtigungspflichte
@@ -86,12 +85,15 @@ gantt
     * [TOM](./tom.md) (benennen)
       * [Endgerätesicherheit](./endgerätesicherheit.md) (Maßnahmen beschreiben)
 
+    * TODO:
+      * [Grundlagen Kryptographie](./kryptographie.md)
+      * [Schutzbedarfsanalyse](./schutzbedarfsanalyse.md) 
+
+    <!--
     * Datenverarbeitungsprozesse: [Menschen- und Maschinenlesbaren Datenformate](./oer.md)
     * [EMail](./mail.md): TO/CC/BCC, Mailinglisten, FROM, Verschlüsselung
-
-     <!--
-     * [Informatik und Gesellschaft](./iug.md)
-     -->
+    * [Informatik und Gesellschaft](./iug.md)
+    -->
 
 * **Schutzbedarfs- und Risikoanalyse** (einfache Wertung)
 
