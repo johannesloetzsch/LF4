@@ -49,4 +49,5 @@
       * [VPN](./vpn.md)
     * [LF11a](./lf11a.md)
     * [Hausaufgabe bis 02.12.25](./sol_25_12_01_praxisbeispiele.md)
+    * [SOL bis 28.01.26](./sol_26_01_28_projekte.md)
 * [Prüfen](./testen.md)
