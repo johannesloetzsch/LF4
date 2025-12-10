@@ -31,9 +31,11 @@
 
 ### Beispiel: [XZ Utils Backdoor](https://de.wikipedia.org/wiki/XZ_Utils_Backdoor)
 
-> **💡** [weitere Beispiele](https://johannesloetzsch.github.io/LF11b/praxisbeispiele.html#supply-chain-security) (aus LF11b 2024)
-
 <iframe width="560" height="315" src="https://media.ccc.de/v/emf2024-409-the-xz-backdoor-what-why-and-how/oembed#t=5" frameborder="0" allowfullscreen></iframe>
+
+### Beispiel: Notepad++
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XwYPz4OPkdw?si=IsAF9YXyoY9gjcsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Beispiel: GlassWorm
 
