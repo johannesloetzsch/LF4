@@ -5,8 +5,6 @@
 
 ## Benutzerkontrolle und Zugriffskontrolle vs. Zugangskontrolle/Zutrittskontrolle
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5322hE2cudM?si=Zx4MM8i9KHTrx_XN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## [Methoden der Authentisierung](https://de.wikipedia.org/wiki/Authentifizierung#Methoden)
 
 Die Authentisierung (Nachweisen der eigenen Identität) kann ein Benutzer auf drei verschiedenen Wegen erreichen:
@@ -15,4 +13,13 @@ Die Authentisierung (Nachweisen der eigenen Identität) kann ein Benutzer auf dr
 * **Besitz**: Schlüssel, Smartcard, Hardware Security Token, …
 * **Sein** ([biometrische Merkmale](https://de.wikipedia.org/wiki/Biometrie#Biometrische_Charakteristika)): Fingerabdruck, Iris, Stimme, …
 
-### 2FA / MFA
+> **❓** Unter welchen Bedingungen kann eine kurze Pin zur Authentifizierung für sicherheitsrelevante Anwendungen eingesetzt werden?
+
+> **❓** Was ist ein Fehlbedienungszähler?
+
+> **❓** Welche Nachteile haben biometrische Merkmale zur Authentifizierung?
+
+
+### [2FA](https://de.wikipedia.org/wiki/Zwei-Faktor-Authentisierung) / [MFA](https://de.wikipedia.org/wiki/Multi-Faktor-Authentisierung)
+
+> **❓💬** Was muss bei der Umsetzung von Multi-Faktor-Authentisierung beachtet werden?
