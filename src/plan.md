@@ -78,24 +78,24 @@ gantt
         * [Datensparsamkeit](./datensparsamkeit.md): Privacy by Default, Privacy by Design, Anonymität, Pseudonymität
       * [Datensicherheit](./datensicherheit.md): Safety vs. Security, Schutzziele / Hauptziele / Grundwerte, Relative Sicherheit, „Stand der Technik“, Qualität
         * [Sicherheitsmanagement](./ism.md): ISO 27001, IT-Grundschutz-Methodik
-          * [Notfallmanagement](./notfallmanagement.md)
+          <!-- * [Notfallmanagement](./notfallmanagement.md) -->
     * [Gefährdungen](./gefährungen.md): Malware, Ransomware, Würmer, Trojaner, Phishing, Spear-Phishing, DoS, DDoS
-      * [Angreifermodelle](./threat_models.md) (Benutzergruppe und Szenario bescheiben, typische Angreifer identifieren)
     * [IT-Grundschutz-Methodik](./grundschutz.md): Basis-, Kern-, Standard-Absicherung
     * [TOM](./tom.md) (benennen)
       * [Endgerätesicherheit](./endgerätesicherheit.md) (Maßnahmen beschreiben)
-
-    * TODO:
-      * [Grundlagen Kryptographie](./kryptographie.md)
-      * [Schutzbedarfsanalyse](./schutzbedarfsanalyse.md) 
+      * [Authentifizierung](./authentifizierung.md): 3 Methoden/Kategorien, Anforderungen an [Passwörter](./passwoerter.md)
+    * [Schutzbedarfsanalyse](./schutzbedarfsanalyse.md) (durchführen)
 
     <!--
+    * TODO:
+      * [Grundlagen Kryptographie](./kryptographie.md)
+
     * Datenverarbeitungsprozesse: [Menschen- und Maschinenlesbaren Datenformate](./oer.md)
     * [EMail](./mail.md): TO/CC/BCC, Mailinglisten, FROM, Verschlüsselung
     * [Informatik und Gesellschaft](./iug.md)
     -->
 
-* **Schutzbedarfs- und Risikoanalyse** (einfache Wertung)
+* SOL **Schutzbedarfsanalyse** & Projektplanung (einfache Wertung)
 
 * Projektpräsentation
   * **fachliche Leistung** (einfache Wertung)

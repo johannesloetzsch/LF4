@@ -9,6 +9,9 @@ TOM --> o[organisatorische Maßnahmen]
 o -.-> p[personelle Maßnahmen]
 ```
 
+> **💡** [TOM Checkliste](https://www.datenschutz-wiki.de/Checkliste_Technische_und_organisatorische_Ma%C3%9Fnahmen#Checkliste)
+
+
 ## [14 „Anforderungen an die Sicherheit der Datenverarbeitung“ nach § 64 BDSG](https://www.gesetze-im-internet.de/bdsg_2018/__64.html)
 
 | TOM                     | Beschreibung                                                                                                          | Beispiele                                                                                      |
