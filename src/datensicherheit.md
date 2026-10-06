@@ -39,7 +39,7 @@ flowchart TB
     a[**Verfügbarkeit**<br/>**A**vailability]
   end
   Sicherheit --> Verfügbarkeit -..-> r[(&nbsp;<br>Redundanz<br>&nbsp;)]
-  Sicherheit --> Integrität -..-> s[(&nbsp;<br>Signaturen + Authentifizierung)]
+  Sicherheit --> Integrität -..-> s[(&nbsp;<br>Signaturen<br>&nbsp;)]
   Sicherheit --> Vertraulichkeit -..-> v[(&nbsp;<br>Verschlüsselung<br>&nbsp;)]
 ```
 
