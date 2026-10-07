@@ -43,6 +43,12 @@ Auswirkungen
 * beträchtlich
 * existenzbedrohend
 
+Risikokategorien
+* Geringes Risiko
+* Mittelmäßiges Risiko
+* Hohes Risiko
+* Sehr hohes Risiko
+
 [![Risikobewertung](https://www.bsi.bund.de/SharedDocs/Bilder/DE/BSI/Themen/grundschutzdeutsch/Webkurs2018/Abb_7_07_Risikomatrix.png?__blob=normal&v=1)](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_7_Risikoanalyse/Lektion_7_07/Lektion_7_07_node.html)
 
 

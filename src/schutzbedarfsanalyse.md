@@ -16,6 +16,17 @@
 * Kommunikationsverbindungen
 * Räume
 
+### 3 Schutzbedarfskategorien
+(bitte nicht mit den 4 Risikokategorien der Risikoanalyse verwechseln)
+
+* Normaler Schutzbedarf
+* Hoher Schutzbedarf
+* Sehr hoher Schutzbedarf
+
+
+## [Definition Schutzbedarfskategorien](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/Hilfsmittel/Recplast/A21_Definition_Schutzbedarfskategorien.pdf?__blob=publicationFile&v=5)
+
+=> auf Basis von:
 ### 6 Schadensszenarien
 
 * Beeinträchtigungen der persönlichen Unversehrtheit
@@ -25,25 +36,7 @@
 * negative Innen- oder Außenwirkung
 * finanzielle Auswirkungen
 
-### 3 Schutzbedarfskategorien
-
-* Normaler Schutzbedarf
-* Hoher Schutzbedarf
-* Sehr hoher Schutzbedarf
-
-### 4 Risikokategorien
-(für Risikoanalyse — bitte nicht mit Schutzbedarfskategorien verwechseln)
-
-* Geringes Risiko
-* Mittelmäßiges Risiko
-* Hohes Risiko
-* Sehr hohes Risiko
-
-
-## [Definition Schutzbedarfskategorien](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/Hilfsmittel/Recplast/A21_Definition_Schutzbedarfskategorien.pdf?__blob=publicationFile&v=5)
-Schadensszenario x Schutzbedarfskategorie
-
-z.B.
+Beispiel:
 
 |                                                                            | Normaler Schutzbedarf                                  | Hoher Schutzbedarf                                                 | Sehr hoher Schutzbedarf                                                         |
 |----------------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------------|
@@ -55,16 +48,34 @@ z.B.
 | - möglicher finanzieller Schaden                                           | geringfügig (< XXX €)                                  | schwerwiegende/hoch (< YYYYYY €)                                   | existenzbedrohend (>= YYYYYY €)                                                  |
 
 ## [Schutzbedarfsfeststellung](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_4_Schutzbedarfsfeststellung/Lektion_4_node.html)
-(Zielobjekte x Schutzziele x Schadensszenarien => Schutzbedarfskategorie)
+
+Mittels eines systematischen Interviews werden allen **Zielobjekten** für die **Schutzziele** jeweils eine **Schutzbedarfskategorie** zugewiesen: [Beispiel](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_4_Schutzbedarfsfeststellung/Lektion_4_05/Lektion_4_05_node.html)
+
+Bei [Vererbung](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_4_Schutzbedarfsfeststellung/Lektion_4_03/Lektion_4_03_node.html) wird in vielen fällen das **Maximumprinzip** angewendet. Dieses sagt aus, dass von allen Einzelbewertungen der **höchste Schutzbedarf** für das Gesamtsystem übernommen wird.
 
 > [**💡** BSI Checkliste für das Interview zur Schutzbedarfsfeststellung](https://www.itzbund.de/SharedDocs/Downloads/DE/digitalemission/trendstechnologien/IT-Security_Checkliste_Schutzbedarfsfeststellung.pdf?__blob=publicationFile&v=2)
 
-### [Beispiel](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_4_Schutzbedarfsfeststellung/Lektion_4_05/Lektion_4_05_node.html)
+> **Beispiel für Zielobjekt „E-Mails“**:
+>
+> * **Vertraulichkeit** (verletzt falls jemand Mails mitlesen kann): 
+>   * Schutzbedarf **sehr hoch**:
+>     * Wenn dadurch Identitätsdiebstahl begannen wird<br> und folgen „<u>finanziell existenzbedrohend</u>“ sein können, falls:
+>       * Ein Angreifer **Passwörter für Zugänge** zurücksetzen kann
+>       * Mail für **2FA** wichtige Dienste verwendet wird
+> * **Integrität** (verletzt falls jemand Mails manipulieren kann): 
+>   * Schutzbedarf **(sehr) hoch**:
+>     * Wenn per Mail versendete Dokumente verfälscht werden<br/> (bzw. wenn Authentizität nicht gewährleistet):
+>       * „<u>Erheblicher Reputationsschaden</u> möglich”
+>       * „<u>Schwerwiegender finanzieller Schäden</u> möglich“
+>       * „Potentiell <u>hohe Strafen bei Verstößen gegen Verträge</u>“
+>     * „Angriffe durch **Phishing** könnten <u>hohen finanziellen Schaden</u> verursachen“
+>     * „Verbreitung von **Schadsoftware** mit <u>erhebliche Beeinträchtigung</u> möglich“
+> * **Verfügbarkeit** (verletzt wenn Mails nicht gelesen oder gesendet werden können):
+>   * Schutzbedarf **normal**:
+>     * Wenn Arbeitsabläufe von Mail unabhängig sind
+>       * z.B. Ausfall für wenige Tage ist <u>kein Problem</u> <br/> „Ich schau da eh selten rein“ ;)
 
-
-### [Vererbung](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_4_Schutzbedarfsfeststellung/Lektion_4_03/Lektion_4_03_node.html) und Maximumprinzip
-
-> **Maximumprinzip**: von allen Einzelbewertungen wird der **höchste Schutzbedarf** für das Gesamtsystem übernommen
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mtm36toRX-o?si=yMZuCmlBaYLrsstU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Interpretation
